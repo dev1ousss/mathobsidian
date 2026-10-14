@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "геометрия.md",
+                "file": "алгебра.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "геометрия"
+              "title": "алгебра"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "eb7fa6bff1c352ad",
   "lastOpenFiles": [
-    "алгебра.md",
     "геометрия.md",
+    "алгебра.md",
     "Pasted image 20261009191349.png",
     "Pasted image 20261009184920.png",
     "Pasted image 20261009184909.png",
