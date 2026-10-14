@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4ec7d6a8ea8261dd",
+        "id": "97dd5bbd0b78c4c2",
         "type": "tabs",
         "children": [
           {
-            "id": "1561a01839b2b072",
+            "id": "b8b0f31ae35bbf46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/9 КЛАСС.md",
+                "file": "алгебра.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 КЛАСС"
+              "title": "алгебра"
+            }
+          },
+          {
+            "id": "eb7fa6bff1c352ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "геометрия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "геометрия"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,12 +200,24 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "1561a01839b2b072",
+  "active": "eb7fa6bff1c352ad",
   "lastOpenFiles": [
+    "алгебра.md",
     "геометрия.md",
+    "Pasted image 20261009191349.png",
+    "Pasted image 20261009184920.png",
+    "Pasted image 20261009184909.png",
+    "Pasted image 20261009184901.png",
+    "Pasted image 20261009184853.png",
+    "Pasted image 20261009184838.png",
+    "Pasted image 20261009184831.png",
+    "Pasted image 20261009184814.png",
+    "Pasted image 20261009184807.png",
+    "Pasted image 20261009184758.png",
     "templates/9 КЛАСС.md",
-    "Равенство треугольников.md",
     "Базовые элементы геометрии.md",
+    "авортфодлав.md",
+    "Равенство треугольников.md",
     "Диагностика знаний.md",
     "Добро пожаловать.md",
     "templates",
