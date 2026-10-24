@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1000" height="630" viewBox="0 0 1000 630">
+
+<defs>
+  <marker id="blue" markerWidth="10" markerHeight="10"
+          refX="8" refY="3" orient="auto">
+    <path d="M0,0 L0,6 L9,3 Z" fill="#1976d2"/>
+  </marker>
+  <marker id="orange" markerWidth="10" markerHeight="10"
+          refX="8" refY="3" orient="auto">
+    <path d="M0,0 L0,6 L9,3 Z" fill="#e46b32"/>
+  </marker>
+</defs>
+
+<rect width="100%" height="100%" fill="white"/>
+
+<text x="500" y="45" text-anchor="middle"
+font-family="Arial" font-size="27" font-weight="bold"
+fill="#23384f">
+Скорость и ускорение при вертикальном броске
+</text>
+
+<line x1="80" y1="535" x2="920" y2="535"
+stroke="#8e9bab" stroke-width="4"/>
+
+<text x="140" y="95" font-size="22"
+font-family="Arial" fill="#243650">
+Подъём
+</text>
+
+<circle cx="230" cy="270" r="27" fill="#526e8d"/>
+
+<line x1="230" y1="264" x2="230" y2="130"
+stroke="#1976d2" stroke-width="7"
+marker-end="url(#blue)"/>
+
+<line x1="230" y1="277" x2="230" y2="435"
+stroke="#e46b32" stroke-width="7"
+marker-end="url(#orange)"/>
+
+<text x="254" y="150" fill="#1976d2"
+font-family="Arial" font-size="25">v вверх</text>
+
+<text x="254" y="415" fill="#e46b32"
+font-family="Arial" font-size="25">g вниз</text>
+
+<text x="407" y="95" font-size="22"
+font-family="Arial" fill="#243650">
+Верхняя точка
+</text>
+
+<circle cx="500" cy="270" r="27" fill="#526e8d"/>
+
+<line x1="500" y1="295" x2="500" y2="435"
+stroke="#e46b32" stroke-width="7"
+marker-end="url(#orange)"/>
+
+<text x="520" y="245" fill="#1976d2"
+font-family="Arial" font-size="23">v = 0</text>
+
+<text x="520" y="414" fill="#e46b32"
+font-family="Arial" font-size="23">g вниз</text>
+
+<text x="775" y="95" font-size="22"
+font-family="Arial" fill="#243650">
+Падение
+</text>
+
+<circle cx="770" cy="270" r="27" fill="#526e8d"/>
+
+<line x1="750" y1="280" x2="750" y2="400"
+stroke="#1976d2" stroke-width="7"
+marker-end="url(#blue)"/>
+
+<line x1="790" y1="280" x2="790" y2="435"
+stroke="#e46b32" stroke-width="7"
+marker-end="url(#orange)"/>
+
+<text x="690" y="470" fill="#1976d2"
+font-family="Arial" font-size="23">v вниз</text>
+
+<text x="810" y="430" fill="#e46b32"
+font-family="Arial" font-size="23">g вниз</text>
+
+<text x="500" y="590" text-anchor="middle"
+font-family="Arial" font-size="21" fill="#243650">
+Ускорение g направлено вниз на всех трёх этапах
+</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+viewBox="0 0 940 420" width="940" height="420">
+<defs>
+<marker id="blue" markerWidth="10" markerHeight="10"
+refX="8" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z" fill="#1976d2"/>
+</marker>
+<marker id="orange" markerWidth="10" markerHeight="10"
+refX="8" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z" fill="#e46b32"/>
+</marker>
+</defs>
+<rect width="940" height="420" fill="white"/>
+<text x="470" y="40" text-anchor="middle"
+font-size="25" font-family="Arial" fill="#172c42"
+font-weight="bold">Направления скорости и ускорения</text>
+
+<text x="35" y="90" font-size="20" font-family="Arial">
+1. Разгон вправо: v и a сонаправлены</text>
+<line x1="85" y1="145" x2="835" y2="145"
+stroke="#9ca9b8" stroke-width="3"/>
+<circle cx="355" cy="145" r="17" fill="#435e7c"/>
+<line x1="355" y1="127" x2="540" y2="127"
+stroke="#1976d2" stroke-width="5" marker-end="url(#blue)"/>
+<line x1="355" y1="165" x2="475" y2="165"
+stroke="#e46b32" stroke-width="5" marker-end="url(#orange)"/>
+<text x="548" y="126" fill="#1976d2" font-size="22">v</text>
+<text x="483" y="184" fill="#e46b32" font-size="22">a</text>
+
+<text x="35" y="260" font-size="20" font-family="Arial">
+2. Торможение вправо: v и a противоположны</text>
+<line x1="85" y1="326" x2="835" y2="326"
+stroke="#9ca9b8" stroke-width="3"/>
+<circle cx="470" cy="326" r="17" fill="#435e7c"/>
+<line x1="470" y1="306" x2="660" y2="306"
+stroke="#1976d2" stroke-width="5" marker-end="url(#blue)"/>
+<line x1="470" y1="347" x2="315" y2="347"
+stroke="#e46b32" stroke-width="5" marker-end="url(#orange)"/>
+<text x="670" y="305" fill="#1976d2" font-size="22">v</text>
+<text x="295" y="370" fill="#e46b32" font-size="22">a</text>
+</svg>
